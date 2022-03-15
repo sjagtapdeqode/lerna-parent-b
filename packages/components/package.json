@@ -1,0 +1,27 @@
+{
+  "name": "@sdf/components",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Swapnil Jagtap <sjagtap@deqode.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.jsx",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "private": "true",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
