@@ -1,0 +1,3 @@
+[submodule "pakcages/lerna-shared-a"]
+	path = pakcages/lerna-shared-a
+	url = https://github.com/sjagtapdeqode/lerna-shared-a.git
